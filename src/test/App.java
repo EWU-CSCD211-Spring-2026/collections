@@ -1,5 +1,5 @@
-package hashcode;
-
+package test;
+import hashcode.*;
 import java.util.HashSet;
 import java.util.Set;
 
